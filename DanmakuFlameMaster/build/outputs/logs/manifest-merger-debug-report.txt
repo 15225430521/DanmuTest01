@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:1-25:12
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:1-25:12
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:1-25:12
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:1-25:12
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:1-25:12
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:1-25:12
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:1-25:12
+	package
+		ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:19:5-35
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:21:5-33
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:20:5-31
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:23:5-47
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:23:5-47
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:23:5-47
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:23:5-47
+INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:23:5-47
+	android:targetSdkVersion
+		ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:23:15-44
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
+		ADDED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml:23:5-47
+		INJECTED from E:\zhibo\DanmuTest01\DanmakuFlameMaster\src\main\AndroidManifest.xml
